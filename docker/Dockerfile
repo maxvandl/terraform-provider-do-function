@@ -1,4 +1,4 @@
-FROM golang:1.17.6-alpine3.15
+FROM golang:1.19.3-alpine3.15
 
 ARG BINARY
 ENV BINARY=${BINARY}
