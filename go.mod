@@ -2,8 +2,6 @@ module terraform-provider-klayer
 
 go 1.22
 
-toolchain go1.24.0
-
 require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.10.1
 	golang.org/x/oauth2 v0.23.0
