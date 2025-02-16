@@ -32,3 +32,4 @@ override.tf.json
 # example: *tfplan*
 # Added by goreleaser init:
 dist/
+terraform-provider-dofunc
