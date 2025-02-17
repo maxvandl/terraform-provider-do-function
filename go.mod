@@ -6,7 +6,7 @@ toolchain go1.24.0
 
 require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.36.0
-	golang.org/x/oauth2 v0.23.0
+	golang.org/x/oauth2 v0.26.0
 )
 
 require (
